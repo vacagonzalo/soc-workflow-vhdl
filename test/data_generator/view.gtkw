@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Feb 18 21:38:05 2023
+[*]
+[dumpfile] "/home/gonzalo/work/soc-workflow/soc-workflow-vhdl/test/data_generator/data_generator.vcd"
+[dumpfile_mtime] "Sat Feb 18 21:35:45 2023"
+[dumpfile_size] 2957
+[savefile] "/home/gonzalo/work/soc-workflow/soc-workflow-vhdl/test/data_generator/view.gtkw"
+[timestart] 0
+[size] 1544 836
+[pos] -39 -39
+*-26.506077 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 226
+@28
+data_generator.clk_i
+data_generator.srst_i
+data_generator.en_i
+@200
+-
+@28
+data_generator.read_i
+@22
+data_generator.data_o[31:0]
+@200
+-
+@22
+data_generator.version_o[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

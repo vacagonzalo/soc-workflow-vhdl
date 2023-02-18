@@ -1,0 +1,106 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Jan  7 01:25:36 2023
+[*]
+[dumpfile] "/home/gonzalo/work/fiuba/MSE-Tesis/fpga/test/axi_data_generator/axi_data_generator_v1_0.vcd"
+[dumpfile_mtime] "Fri Jan  6 02:43:30 2023"
+[dumpfile_size] 8929
+[savefile] "/home/gonzalo/work/fiuba/MSE-Tesis/fpga/test/axi_data_generator/vista.gtkw"
+[timestart] 0
+[size] 1544 836
+[pos] -39 -39
+*-26.645052 376000001 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] axi_data_generator_v1_0.
+[treeopen] axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.
+[sst_width] 233
+[signals_width] 267
+[sst_expanded] 1
+[sst_vpaned_height] 226
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.aw_en
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_araddr[3:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_arready
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_awaddr[3:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_awready
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_bresp[1:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_bvalid
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_rdata[31:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_rresp[1:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_rvalid
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.axi_wready
+@420
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.byte_index
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.read_axi_i
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.reg_data_out[31:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_aclk
+@22
+[color] 3
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_araddr[3:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_aresetn
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_arprot[2:0]
+[color] 3
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_arready
+[color] 3
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_arvalid
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_awaddr[3:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_awprot[2:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_awready
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_awvalid
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_bready
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_bresp[1:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_bvalid
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_rdata[31:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_rready
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_rresp[1:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_rvalid
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_wdata[31:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_wready
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_wstrb[3:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.s_axi_wvalid
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.slv_data_o[31:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.slv_reg0[31:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.slv_reg1[31:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.slv_reg2[31:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.slv_reg3[31:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.slv_reg_rden
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.slv_reg_wren
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.slv_version_o[31:0]
+@200
+-
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.data_generator_inst.clk_i
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.data_generator_inst.data_o[31:0]
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.data_generator_inst.data_s[31:0]
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.data_generator_inst.en_i
+@29
+[color] 3
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.data_generator_inst.read_i
+@28
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.data_generator_inst.srst_i
+@22
+axi_data_generator_v1_0.axi_data_generator_v1_0_s00_axi_inst.data_generator_inst.version_o[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
