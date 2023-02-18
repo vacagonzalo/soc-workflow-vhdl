@@ -1,3 +1,13 @@
+.Xil/
+build/
+NA/
+sim_build/
+
+*.vcd
+*.xml
+*.jou
+*.xsa
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
